@@ -4,6 +4,7 @@
 ├── bin
 │   └── index.js
 ├── lib
+├── utils
 ├── package-lock.json
 ├── package.json
 └── templates
@@ -11,5 +12,6 @@
 
 - bin/: 存放CLI工具的执行脚本。
 - lib/: 存放CLI工具的功能模块。
+- utils/: 存放一些工具函数。
 - templates/: 存放脚手架生成项目或组件时使用的模板文件。
 - package.json: 项目的配置文件，通常包含项目依赖、脚本等信息。
